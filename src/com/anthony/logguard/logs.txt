@@ -1,0 +1,9 @@
+2026-03-13 10:40:11  SUCCESS  Application started
+2026-03-13 10:40:13  WARN     Resource not found: /favicon.ico
+2026-03-13 10:40:15  SUCCESS  User login request processed
+2026-03-13 10:40:16  ERROR    Database connection failed
+2026-03-13 10:40:18  SUCCESS  User authenticated successfully
+2026-03-13 10:40:19  SUCCESS  Response returned 200 OK
+2026-03-13 10:40:21  WARN     Slow response detected
+2026-03-13 10:40:23  ERROR    Failed to load configuration file
+2026-03-13 10:40:25  SUCCESS  Configuration reloaded
