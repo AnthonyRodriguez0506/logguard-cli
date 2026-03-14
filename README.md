@@ -14,18 +14,18 @@ Instead of reading hundreds of log lines manually, LogGuard CLI reads your log f
 
 Place `logAnalyzer.jar` in the same folder as your log file and run:
 
-\`\`\`bash
 java -jar logAnalyzer.jar your-file.log
-\`\`\`
 
 ## Output
 
-\`\`\`
 ===== LOG ANALYZER =====
+
 Errors = 2
+
 Success = 5
+
 Warnings = 2
-\`\`\`
+
 
 ## Log format
 
