@@ -2,10 +2,6 @@
 
 A simple command-line tool written in Java that analyzes log files and summarizes their content.
 
-## What it does
-
-Instead of reading hundreds of log lines manually, LogGuard CLI reads your log file and tells you exactly how many errors, warnings, and successes it contains.
-
 ## Requirements
 
 - Java 21 or higher
@@ -18,13 +14,7 @@ java -jar logAnalyzer.jar your-file.log
 
 ## Output
 
-===== LOG ANALYZER =====
-
-Errors = 2
-
-Success = 5
-
-Warnings = 2
+Errors = 2 | Success = 5 | Warnings = 2
 
 
 ## Log format
